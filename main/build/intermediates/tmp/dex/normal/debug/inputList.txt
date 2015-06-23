@@ -1,0 +1,7 @@
+D:\Smack\openvpn_apps\finalstudio\main\build\intermediates\classes\normal\debug
+D:\Smack\openvpn_apps\finalstudio\main\build\intermediates\pre-dexed\normal\debug\support-annotations-21.0.3-d0274023343a1b43c4ea2d50a3aeb9d8167c9e4a.jar
+D:\Smack\openvpn_apps\finalstudio\main\build\intermediates\pre-dexed\normal\debug\annotations-12.0-919421dee1182890a6b7dbb1dfab824f2bbf63d3.jar
+D:\Smack\openvpn_apps\finalstudio\main\build\intermediates\pre-dexed\normal\debug\classes-b7797bae7abb0f6a071bfbf18dbaf6a9bce72bfc.jar
+D:\Smack\openvpn_apps\finalstudio\main\build\intermediates\pre-dexed\normal\debug\internal_impl-21.0.3-5ba850eb8ba11e66e0533842fb3ea27d41b8a0f2.jar
+D:\Smack\openvpn_apps\finalstudio\main\build\intermediates\pre-dexed\normal\debug\classes-0c09121de0ce2123bd5cecdb73db583e42a5defc.jar
+D:\Smack\openvpn_apps\finalstudio\main\build\intermediates\pre-dexed\normal\debug\classes-1032db61a534b79ca4b4e0667502dd39f825a131.jar

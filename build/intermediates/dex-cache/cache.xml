@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.intellij\annotations\12.0\bbcf6448f6d40abe506e2c83b70a3e8bfd2b4539\annotations-12.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bbcf6448f6d40abe506e2c83b70a3e8bfd2b4539">
+        <dex dex="D:\Smack\openvpn_apps\finalstudio\main\build\intermediates\pre-dexed\normal\debug\annotations-12.0-919421dee1182890a6b7dbb1dfab824f2bbf63d3.jar" />
+    </item>
+    <item
+        jar="D:\Smack\openvpn_apps\finalstudio\main\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="D:\Smack\openvpn_apps\finalstudio\main\build\intermediates\pre-dexed\normal\debug\classes-0c09121de0ce2123bd5cecdb73db583e42a5defc.jar" />
+    </item>
+    <item
+        jar="D:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Smack\openvpn_apps\finalstudio\main\build\intermediates\pre-dexed\normal\debug\support-annotations-21.0.3-d0274023343a1b43c4ea2d50a3aeb9d8167c9e4a.jar" />
+    </item>
+    <item
+        jar="D:\Smack\openvpn_apps\finalstudio\main\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Smack\openvpn_apps\finalstudio\main\build\intermediates\pre-dexed\normal\debug\internal_impl-21.0.3-5ba850eb8ba11e66e0533842fb3ea27d41b8a0f2.jar" />
+    </item>
+    <item
+        jar="D:\Smack\openvpn_apps\finalstudio\main\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="D:\Smack\openvpn_apps\finalstudio\main\build\intermediates\pre-dexed\normal\debug\classes-b7797bae7abb0f6a071bfbf18dbaf6a9bce72bfc.jar" />
+    </item>
+    <item
+        jar="D:\Smack\openvpn_apps\finalstudio\main\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Smack\openvpn_apps\finalstudio\main\build\intermediates\pre-dexed\normal\debug\classes-1032db61a534b79ca4b4e0667502dd39f825a131.jar" />
+    </item>
+
+</items>
